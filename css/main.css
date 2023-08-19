@@ -2243,7 +2243,7 @@ header.header {
 .main-inner {
   border-radius: initial;
   box-sizing: border-box;
-  width: calc(100% - 252px);
+  width: calc(100% - 342px);
 }
 @media (max-width: 991px) {
   .main-inner {
@@ -2252,7 +2252,7 @@ header.header {
   }
 }
 .footer-inner {
-  padding-left: 252px;
+  padding-left: 342px;
 }
 @media (max-width: 991px) {
   .footer-inner {
@@ -2262,7 +2262,7 @@ header.header {
   }
 }
 .column {
-  width: 240px;
+  width: 330px;
 }
 @media (max-width: 991px) {
   .column {
