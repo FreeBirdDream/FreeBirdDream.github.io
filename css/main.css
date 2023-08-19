@@ -184,8 +184,8 @@ body {
   background: var(--body-bg-color);
   box-sizing: border-box;
   color: var(--text-color);
-  font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
-  font-size: 1em;
+  font-family: Noto Serif SC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-size: 1.2em;
   line-height: 2;
   min-height: 100%;
   position: relative;
@@ -197,7 +197,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Noto Serif SC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-weight: bold;
   line-height: 1.5;
   margin: 30px 0 15px;
@@ -1023,7 +1023,7 @@ pre code {
   color: var(--brand-hover-color);
 }
 .site-title {
-  font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Noto Serif SC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1.375em;
   font-weight: normal;
   line-height: 1.5;
@@ -1659,7 +1659,7 @@ pre code {
   width: 4px;
 }
 .post-body {
-  font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Noto Serif SC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   overflow-wrap: break-word;
 }
 @media (min-width: 1200px) {
@@ -1845,7 +1845,7 @@ pre code {
 }
 .posts-expand .post-meta-container {
   color: #999;
-  font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Noto Serif SC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 0.75em;
   margin-top: 3px;
 }
@@ -2226,7 +2226,7 @@ header.header {
 .main-inner {
   border-radius: 20px 20px 20px 20px;
   box-sizing: border-box;
-  width: calc(100% - 342px);
+  width: calc(100% - 277px);
 }
 @media (max-width: 991px) {
   .main-inner {
@@ -2235,7 +2235,7 @@ header.header {
   }
 }
 .footer-inner {
-  padding-left: 342px;
+  padding-left: 277px;
 }
 @media (max-width: 991px) {
   .footer-inner {
@@ -2245,7 +2245,7 @@ header.header {
   }
 }
 .column {
-  width: 330px;
+  width: 265px;
 }
 @media (max-width: 991px) {
   .column {
@@ -2446,43 +2446,47 @@ header.header {
   }
 }
 body {
-  background: url("https://w.wallhaven.cc/full/6d/wallhaven-6dp7gw.jpg");
+  background: url("https://w.wallhaven.cc/full/yx/wallhaven-yx2eqx.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
 }
+header.header {
+  opacity: 1;
+  top: 0px;
+}
 .content-wrap {
-  opacity: 0.8;
+  opacity: 1;
 }
 .main-inner {
-  opacity: 0.8;
+  opacity: 1;
 }
 .sidebar {
   opacity: 0.8;
 }
 .header-inner {
-  background: rgba(255,255,255,0.8);
+  background: #fff;
 }
 .popup {
-  opacity: 0.8;
+  opacity: 1;
 }
 .post-block {
-  background: rgba(255,255,255,0.7) none repeat scroll !important;
+  background: #fff none repeat scroll !important;
 }
 .sidebar {
-  opacity: 0.8;
+  opacity: 1;
 }
 .sidebar-inner {
-  background: rgba(255,255,255,0.7) none repeat scroll !important;
+  background: #fff none repeat scroll !important;
 }
 .comments {
-  background: rgba(255,255,255,0.7) none repeat scroll !important;
+  background: #fff none repeat scroll !important;
 }
 .post {
   margin-top: 60px;
   padding: 20px;
   margin-bottom: 60px;
   -webkit-box-shadow: 0 0 5px #788072;
-  -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
+  -moz-box-shadow: 0 0 5px rgba(202,203,204,0.3);
 }
