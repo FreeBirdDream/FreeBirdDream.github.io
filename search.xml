@@ -23,6 +23,32 @@
       </tags>
   </entry>
   <entry>
+    <title>《我与侠盗猎车手的故事》</title>
+    <url>/2023/08/19/Gtasa01/</url>
+    <content><![CDATA[<p>活了二十来年，第一次想要写些什么，于是有了这么个网站的存在，那就由童年时期对未来的憧憬作为第一篇散文。</p>
+<span id="more"></span>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
+
+<p><code>在开始前，我想向您分享一首歌曲</code></p>
+<p><meting-js
+    auto="https://music.163.com/song?id=5049666" autoplay=false ><br></meting-js></p>
+<h2 id="我会在这望不到头的公路行驶下去"><a href="#我会在这望不到头的公路行驶下去" class="headerlink" title="我会在这望不到头的公路行驶下去"></a>我会在这望不到头的公路行驶下去</h2><p><img src="https://img1.imgtp.com/2023/08/18/ENzmeDzt.png" alt="1"></p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp那是小学时代的记忆，一款游戏点燃了我心中的火焰——《侠盗猎车手：圣安地列斯》。它带开启了我一个奇妙的世界，充满了冒险和自由。有时候，我不屑于接受任务，就会驾着车，在沙漠的公路上狂奔，耳边电台传来《Free Bird》的旋律，如同天籁之音。那是我一直梦寐以求的生活，直到十年后，我终于挣脱了枷锁，亲自开着车，在草原和沙漠上飞驰，像只自由鸟一样。——Kudo</p>
+
+
+]]></content>
+      <categories>
+        <category>散文</category>
+      </categories>
+      <tags>
+        <tag>游戏人生</tag>
+        <tag>童年生活</tag>
+        <tag>旅行</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《漠上饮琼浆》</title>
     <url>/2023/08/19/desertdrank/</url>
     <content><![CDATA[<p>又听刀郎的《冲动的惩罚》，又喝了几杯酒，结果猜不透的不是你，是我。</p>
@@ -65,32 +91,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《我与侠盗猎车手的故事》</title>
-    <url>/2023/08/19/Gtasa01/</url>
-    <content><![CDATA[<p>活了二十来年，第一次想要写些什么，于是有了这么个网站的存在，那就由童年时期对未来的憧憬作为第一篇散文。</p>
-<span id="more"></span>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
-<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
-
-<p><code>在开始前，我想向您分享一首歌曲</code></p>
-<p><meting-js
-    auto="https://music.163.com/song?id=5049666" autoplay=false ><br></meting-js></p>
-<h2 id="我会在这望不到头的公路行驶下去"><a href="#我会在这望不到头的公路行驶下去" class="headerlink" title="我会在这望不到头的公路行驶下去"></a>我会在这望不到头的公路行驶下去</h2><p><img src="https://img1.imgtp.com/2023/08/18/ENzmeDzt.png" alt="1"></p>
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp那是小学时代的记忆，一款游戏点燃了我心中的火焰——《侠盗猎车手：圣安地列斯》。它带开启了我一个奇妙的世界，充满了冒险和自由。有时候，我不屑于接受任务，就会驾着车，在沙漠的公路上狂奔，耳边电台传来《Free Bird》的旋律，如同天籁之音。那是我一直梦寐以求的生活，直到十年后，我终于挣脱了枷锁，亲自开着车，在草原和沙漠上飞驰，像只自由鸟一样。——Kudo</p>
-
-
-]]></content>
-      <categories>
-        <category>散文</category>
-      </categories>
-      <tags>
-        <tag>游戏人生</tag>
-        <tag>童年生活</tag>
-        <tag>旅行</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《社会危机与劳动者权益：从“产业后备军”理论看新冠疫情的影响》</title>
     <url>/2022/12/05/houyiqing01/</url>
     <content><![CDATA[<p>根据22年12月份<code>学院派Academia</code> 视频内容所写，非常有预见性，今天拿出来不仅想让大家伙看一下，也更是提醒自己。</p>
@@ -117,7 +117,8 @@
 
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp具体来说，新冠疫情对“产业后备军”的影响有以下几个方面：
 
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp首先，新冠疫情导致了大量劳动者失去工作或收入，使得“产业后备军”的规模迅速扩大。根据ILO的报告，2020年第二季度全球工作时间相当于失去了4.95亿个全职工作岗位，2020年全年相当于失去了2.55亿个全职工作岗位。这意味着全球有数亿人面临失业或收入减少的风险。
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp首先，新冠疫情导致了大量劳动者失去工作或收入，根据国际劳工组织ILO的报告，2020年全球有数亿人面临失业或收入减少的风险。
+
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp失业不仅对个人和家庭造成了严重的经济困难，也对社会稳定和发展造成了深远的影响。失业会导致贫困、不平等、健康、教育、心理等方面的问题，也会引发社会不满、抗议、暴力等现象。因此，如何解决失业问题，恢复经济增长，成为了许多政府和社会团体关注的焦点。
 
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp其次，新冠疫情加剧了劳动者之间的不平等和分化，使得“产业后备军”的结构更加复杂和多样。根据ILO的报告，新冠疫情对不同地区、不同行业、不同性别、不同年龄、不同教育程度的劳动者的影响是不均衡的。一般来说，发展中国家、非正规经济部门、低技能和低收入的劳动者、女性和青年劳动者、少数族裔和移民劳动者等更容易受到新冠疫情的冲击，失去工作或收入，或者被迫接受更差的工作条件和更低的社会保障。这些劳动者往往属于社会边缘化和弱势化的群体，他们在资本主义体系中缺乏话语权和代表性，也缺乏有效的组织和团结，因此更难以抵抗资本对他们的剥削和压迫。
@@ -217,6 +218,22 @@
       </tags>
   </entry>
   <entry>
+    <title>《寂静岭2哲学内核深度分析》</title>
+    <url>/2023/08/27/silenthill2-01/</url>
+    <content><![CDATA[<p>这几天过得比较无聊，突然在B站首页刷到了《寂静岭2》的视频，又回想起了《Promise》这首歌，一个个画面又重新自我眼前浮现。来简单分析一下游戏的剧情，内涵。</p>
+<span id="more"></span>
+<p>我觉得应该先从剧情出发去解析，</p>
+<h2 id="剧情简介"><a href="#剧情简介" class="headerlink" title="剧情简介"></a>剧情简介</h2>]]></content>
+      <categories>
+        <category>哲学</category>
+        <category>游戏</category>
+      </categories>
+      <tags>
+        <tag>原创</tag>
+        <tag>哲学</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《逍遥篇》</title>
     <url>/2023/08/19/xiaoyao/</url>
     <content><![CDATA[<p>讲真，在遇到她之前，我是不相信缘分这个东西的，我以为错过就真的不会再见了。哪怕是双方有些许的想法，可终究会敌不过时间。</p>
@@ -239,8 +256,8 @@
       </categories>
       <tags>
         <tag>原创</tag>
-        <tag>孤独</tag>
         <tag>旅行</tag>
+        <tag>孤独</tag>
         <tag>琼露</tag>
       </tags>
   </entry>
