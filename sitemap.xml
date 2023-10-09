@@ -190,6 +190,20 @@
   </url>
   
   <url>
+    <loc>https://freebirddream.github.io/tags/%E5%A4%A7%E6%BC%A0/</loc>
+    <lastmod>2023-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebirddream.github.io/tags/%E5%BF%83%E5%8A%A8/</loc>
+    <lastmod>2023-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://freebirddream.github.io/tags/%E7%A4%BE%E4%BC%9A%E5%AD%A6/</loc>
     <lastmod>2023-10-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -211,14 +225,7 @@
   </url>
   
   <url>
-    <loc>https://freebirddream.github.io/tags/%E5%A4%A7%E6%BC%A0/</loc>
-    <lastmod>2023-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://freebirddream.github.io/tags/%E5%BF%83%E5%8A%A8/</loc>
+    <loc>https://freebirddream.github.io/tags/%E7%9B%B8%E9%81%87/</loc>
     <lastmod>2023-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -233,13 +240,6 @@
   
   <url>
     <loc>https://freebirddream.github.io/tags/%E5%AD%A4%E7%8B%AC/</loc>
-    <lastmod>2023-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://freebirddream.github.io/tags/%E7%9B%B8%E9%81%87/</loc>
     <lastmod>2023-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -318,13 +318,6 @@
   </url>
   
   <url>
-    <loc>https://freebirddream.github.io/categories/%E7%A4%BE%E4%BC%9A%E5%AD%A6/</loc>
-    <lastmod>2023-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://freebirddream.github.io/categories/%E8%AF%97%E9%9B%86/</loc>
     <lastmod>2023-10-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -332,7 +325,7 @@
   </url>
   
   <url>
-    <loc>https://freebirddream.github.io/categories/%E7%A4%BE%E4%BC%9A%E5%AD%A6/%E5%AD%98%E6%A1%A3/</loc>
+    <loc>https://freebirddream.github.io/categories/%E7%A4%BE%E4%BC%9A%E5%AD%A6/</loc>
     <lastmod>2023-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -347,6 +340,13 @@
   
   <url>
     <loc>https://freebirddream.github.io/categories/%E5%93%B2%E5%AD%A6/</loc>
+    <lastmod>2023-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebirddream.github.io/categories/%E7%A4%BE%E4%BC%9A%E5%AD%A6/%E5%AD%98%E6%A1%A3/</loc>
     <lastmod>2023-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
