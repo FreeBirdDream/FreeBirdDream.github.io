@@ -2607,3 +2607,6 @@ header.header {
 .main-inner post posts-expand {
   padding: 60px 60px 60px 60px;
 }
+.footer-inner {
+  color: #000;
+}
