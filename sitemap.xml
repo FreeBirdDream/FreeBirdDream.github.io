@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://freebirddream.github.io/2024/01/25/%E7%A1%AC%E6%A0%B8%E7%A4%BE%E4%BC%9A%E5%AD%A611/</loc>
+    
+    <lastmod>2024-01-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://freebirddream.github.io/2023/12/24/dog-wit01/</loc>
     
     <lastmod>2024-01-25</lastmod>
@@ -226,20 +235,6 @@
   </url>
   
   <url>
-    <loc>https://freebirddream.github.io/tags/%E5%A4%A7%E6%BC%A0/</loc>
-    <lastmod>2024-01-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://freebirddream.github.io/tags/%E5%BF%83%E5%8A%A8/</loc>
-    <lastmod>2024-01-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://freebirddream.github.io/tags/%E6%B8%B8%E6%88%8F%E4%BA%BA%E7%94%9F/</loc>
     <lastmod>2024-01-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -255,6 +250,20 @@
   
   <url>
     <loc>https://freebirddream.github.io/tags/%E6%97%85%E8%A1%8C/</loc>
+    <lastmod>2024-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebirddream.github.io/tags/%E5%A4%A7%E6%BC%A0/</loc>
+    <lastmod>2024-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebirddream.github.io/tags/%E5%BF%83%E5%8A%A8/</loc>
     <lastmod>2024-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
