@@ -250,6 +250,27 @@
   </url>
   
   <url>
+    <loc>https://freebirddream.github.io/tags/%E9%A9%AC%E5%85%8B%E6%80%9D/</loc>
+    <lastmod>2024-02-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebirddream.github.io/tags/%E7%A4%BE%E4%BC%9A%E5%AD%A6/</loc>
+    <lastmod>2024-02-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebirddream.github.io/tags/%E5%AD%A6%E9%99%A2%E6%B4%BEAcademia/</loc>
+    <lastmod>2024-02-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://freebirddream.github.io/tags/%E6%B8%B8%E6%88%8F%E4%BA%BA%E7%94%9F/</loc>
     <lastmod>2024-02-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -285,27 +306,6 @@
   </url>
   
   <url>
-    <loc>https://freebirddream.github.io/tags/%E9%A9%AC%E5%85%8B%E6%80%9D/</loc>
-    <lastmod>2024-02-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://freebirddream.github.io/tags/%E7%A4%BE%E4%BC%9A%E5%AD%A6/</loc>
-    <lastmod>2024-02-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://freebirddream.github.io/tags/%E5%AD%A6%E9%99%A2%E6%B4%BEAcademia/</loc>
-    <lastmod>2024-02-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://freebirddream.github.io/tags/%E5%90%8E%E7%96%AB%E6%83%85%E6%97%B6%E4%BB%A3/</loc>
     <lastmod>2024-02-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -320,13 +320,6 @@
   </url>
   
   <url>
-    <loc>https://freebirddream.github.io/tags/%E7%9B%B8%E9%81%87/</loc>
-    <lastmod>2024-02-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://freebirddream.github.io/tags/%E4%BC%A4%E6%84%9F/</loc>
     <lastmod>2024-02-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -335,6 +328,13 @@
   
   <url>
     <loc>https://freebirddream.github.io/tags/%E5%AD%A4%E7%8B%AC/</loc>
+    <lastmod>2024-02-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://freebirddream.github.io/tags/%E7%9B%B8%E9%81%87/</loc>
     <lastmod>2024-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -420,14 +420,14 @@
   </url>
   
   <url>
-    <loc>https://freebirddream.github.io/categories/%E8%AF%97%E9%9B%86/</loc>
+    <loc>https://freebirddream.github.io/categories/%E7%A4%BE%E4%BC%9A%E5%AD%A6/</loc>
     <lastmod>2024-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://freebirddream.github.io/categories/%E7%A4%BE%E4%BC%9A%E5%AD%A6/</loc>
+    <loc>https://freebirddream.github.io/categories/%E8%AF%97%E9%9B%86/</loc>
     <lastmod>2024-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
