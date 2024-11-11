@@ -502,21 +502,21 @@
   </url>
   
   <url>
-    <loc>https://blog.freebird.day/tags/%E6%B8%B8%E6%88%8F%E4%BA%BA%E7%94%9F/</loc>
+    <loc>https://blog.freebird.day/tags/%E9%A9%AC%E5%85%8B%E6%80%9D/</loc>
     <lastmod>2024-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.freebird.day/tags/%E7%AB%A5%E5%B9%B4%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://blog.freebird.day/tags/%E7%A4%BE%E4%BC%9A%E5%AD%A6/</loc>
     <lastmod>2024-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.freebird.day/tags/%E6%97%85%E8%A1%8C/</loc>
+    <loc>https://blog.freebird.day/tags/%E5%AD%A6%E9%99%A2%E6%B4%BEAcademia/</loc>
     <lastmod>2024-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -537,21 +537,21 @@
   </url>
   
   <url>
-    <loc>https://blog.freebird.day/tags/%E9%A9%AC%E5%85%8B%E6%80%9D/</loc>
+    <loc>https://blog.freebird.day/tags/%E6%B8%B8%E6%88%8F%E4%BA%BA%E7%94%9F/</loc>
     <lastmod>2024-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.freebird.day/tags/%E7%A4%BE%E4%BC%9A%E5%AD%A6/</loc>
+    <loc>https://blog.freebird.day/tags/%E7%AB%A5%E5%B9%B4%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2024-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.freebird.day/tags/%E5%AD%A6%E9%99%A2%E6%B4%BEAcademia/</loc>
+    <loc>https://blog.freebird.day/tags/%E6%97%85%E8%A1%8C/</loc>
     <lastmod>2024-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -749,6 +749,13 @@
   </url>
   
   <url>
+    <loc>https://blog.freebird.day/categories/%E7%A4%BE%E4%BC%9A%E5%AD%A6/</loc>
+    <lastmod>2024-11-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.freebird.day/categories/%E8%AF%97%E9%9B%86/</loc>
     <lastmod>2024-11-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -756,7 +763,7 @@
   </url>
   
   <url>
-    <loc>https://blog.freebird.day/categories/%E7%A4%BE%E4%BC%9A%E5%AD%A6/</loc>
+    <loc>https://blog.freebird.day/categories/%E7%A4%BE%E4%BC%9A%E5%AD%A6/%E5%AD%98%E6%A1%A3/</loc>
     <lastmod>2024-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -771,13 +778,6 @@
   
   <url>
     <loc>https://blog.freebird.day/categories/%E5%93%B2%E5%AD%A6/</loc>
-    <lastmod>2024-11-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.freebird.day/categories/%E7%A4%BE%E4%BC%9A%E5%AD%A6/%E5%AD%98%E6%A1%A3/</loc>
     <lastmod>2024-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
