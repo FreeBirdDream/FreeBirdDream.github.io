@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>The Free Bird</title>
+  <title>Free Bird</title>
   
   <subtitle>探索不同的生活方式</subtitle>
   <link href="https://blog.freebird.day/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://blog.freebird.day/</id>
   
   <author>
-    <name>FreeBird</name>
+    <name>Free Bird</name>
     
   </author>
   
