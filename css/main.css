@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'LXGW WenKai GB';
+  src: url("/font/LXGWWenKaiGB-Medium.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
 :root {
   --body-bg-color: #f5f7f9;
   --content-bg-color: #fff;
@@ -184,7 +190,7 @@ body {
   background: var(--body-bg-color);
   box-sizing: border-box;
   color: var(--text-color);
-  font-family: Noto Sans SC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: LXGW WenKai GB, 'LXGW WenKai GB', 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1.2em;
   line-height: 2;
   min-height: 100%;
@@ -197,7 +203,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Noto Sans SC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: LXGW WenKai GB, 'LXGW WenKai GB', 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-weight: bold;
   line-height: 1.5;
   margin: 30px 0 15px;
@@ -449,7 +455,7 @@ pre figcaption a:hover {
 }
 pre,
 code {
-  font-family: consolas, Menlo, monospace, 'PingFang SC', 'Microsoft YaHei';
+  font-family: consolas, Menlo, monospace, 'LXGW WenKai GB', 'PingFang SC', 'Microsoft YaHei';
 }
 code {
   border-radius: 3px;
@@ -1023,7 +1029,7 @@ pre code {
   color: var(--brand-hover-color);
 }
 .site-title {
-  font-family: Noto Sans SC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: LXGW WenKai GB, 'LXGW WenKai GB', 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1.375em;
   font-weight: normal;
   line-height: 1.5;
@@ -1665,7 +1671,7 @@ pre code {
   width: 4px;
 }
 .post-body {
-  font-family: Noto Sans SC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: LXGW WenKai GB, 'LXGW WenKai GB', 'PingFang SC', 'Microsoft YaHei', sans-serif;
   overflow-wrap: break-word;
 }
 @media (min-width: 1200px) {
@@ -1851,7 +1857,7 @@ pre code {
 }
 .posts-expand .post-meta-container {
   color: #999;
-  font-family: Noto Sans SC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: LXGW WenKai GB, 'LXGW WenKai GB', 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 0.725em;
   margin-top: 3px;
 }
@@ -2587,11 +2593,22 @@ header.header {
 .main-inner {
   opacity: 1;
 }
+.back-to-top {
+  border-radius: 30px;
+  opacity: 0;
+}
+.back-to-top.back-to-top-on {
+  opacity: 1;
+}
 .sidebar {
   opacity: 0.8;
 }
 .header-inner {
   background: #fff;
+}
+.pre,
+code {
+  font-family: 'LXGW WenKai GB', consolas, Menlo, monospace, 'PingFang SC', 'Microsoft YaHei';
 }
 .post-block {
   background: #fff none repeat scroll !important;
